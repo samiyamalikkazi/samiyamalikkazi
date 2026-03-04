@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Samiya 👋
 
-<!--
-**samiyamalikkazi/samiyamalikkazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Learning Python and Open Source  
+🚀 Preparing for Google Summer of Code (GSoC)
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Git & GitHub
+- Basic Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Password Generator
+- To-Do List App
+- Weather App
+
+## Goals
+Contribute to open source projects and improve my development skills.
